@@ -32,7 +32,6 @@ close(F);
 print "(cd $path_to_hg && hg update default && hg tag stable-$newrev)\n";
 print `(cd $path_to_hg && hg update default && hg commit -m 'New revision' && hg tag stable-$newrev)\n`;
 
-
 #Get list of stable revs
 my %tagsrev;
 my @tags = reverse sort map {
@@ -43,7 +42,7 @@ my @tags = reverse sort map {
          if($1 < 130219) {
             ();
          } else {
-            $1;
+            $rev;
          }
       } else {
          ();
