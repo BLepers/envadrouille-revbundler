@@ -1,0 +1,6 @@
+[
+{"name":"multilang","title":"Multilang","descr-en":"Allows you to write your descriptions in multiple languages.","desc-fr":"Ce plugin vous permet d'écrire vos commentaire en plusieurs langues.", "thumb":"http://envadrouille.org/admin/pages/menu/css/plug05.png","noconf":"true","version":"20140814"},
+{"name":"comments","title":"Comments","descr-en":"Allows users to comment your galleries.","descr-fr":"Ce plugin ajoute la possibilité de commenter les galeries.", "thumb":"http://envadrouille.org/admin/pages/menu/css/plug02.png","version":"20140814"},
+{"name":"feedback","title":"Feedback","descr-en":"Allows users to send feedback / bug report on your galleries by mail.","descr-fr":"Ce plugin permet d'envoyer des commentaires par mail.", "thumb":"http://envadrouille.org/admin/pages/menu/css/plug03.png","version":"20140814"}
+]
+
