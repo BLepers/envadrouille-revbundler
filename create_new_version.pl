@@ -99,6 +99,10 @@ my ($revdate) = ($tags[0] =~ m/stable-(\d+)/);
 print F "remote_check_version({\"version\":$revdate})";
 close(F);
 
+open(F, "> VERSION-JSON");
+my ($revdate) = ($tags[0] =~ m/stable-(\d+)/);
+print F "[\"$revdate\"]";
+close(F);
 
 sub is_binary {
    my ($f) = @_;
