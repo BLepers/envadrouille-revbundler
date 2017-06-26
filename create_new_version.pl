@@ -91,8 +91,8 @@ for my $revn (1..$#tags) {
    close(F);
 }
 
-print "(cd $path_to_hg && hg update && hg archive $current_path/latest.zip)\n";
-print `(cd $path_to_hg && hg update && hg archive $current_path/latest.zip)`;
+print "(cd $path_to_hg && hg update && hg archive $current_path/envadrouille.zip)\n";
+print `(cd $path_to_hg && hg update && hg archive $current_path/envadrouille.zip)`;
 
 open(F, "> VERSION");
 my ($revdate) = ($tags[0] =~ m/stable-(\d+)/);
