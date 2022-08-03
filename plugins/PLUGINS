@@ -1,6 +1,6 @@
 [
 {"name":"multilang","title":"Multilang","descr-en":"Allows you to write your descriptions in multiple languages.","descr-fr":"Ce plugin vous permet d'écrire vos commentaires en plusieurs langues.", "thumb":"https://plugins.envadrouille.org/plug05.png","noconf":"true","version":"20170807"},
-{"name":"comments","title":"Comments","descr-en":"Allows users to comment your galleries.","descr-fr":"Ce plugin ajoute la possibilité de commenter les galeries.", "thumb":"https://plugins.envadrouille.org/plug02.png","version":"20220801"},
+{"name":"comments","title":"Comments","descr-en":"Allows users to comment your galleries.","descr-fr":"Ce plugin ajoute la possibilité de commenter les galeries.", "thumb":"https://plugins.envadrouille.org/plug02.png","version":"20220803"},
 {"name":"feedback","title":"Feedback","descr-en":"Allows users to send feedback / bug report on your galleries by mail.","descr-fr":"Ce plugin permet d'envoyer des commentaires par mail.", "thumb":"https://plugins.envadrouille.org/plug03.png","version":"20170807"},
 {"name":"sitemap","title":"Sitemap","descr-en":"Allow search engines to index your galleries.","descr-fr":"Ce plugin permet aux moteurs de recherche d'indexer vos galeries.", "thumb":"https://plugins.envadrouille.org/plug06.png","version":"20160319"},
 {"name":"rss","title":"Rss","descr-en":"Create a RSS feed of your galleries.","descr-fr":"Ce plugin permet de créer un flux RSS de vos galeries.", "thumb":"https://plugins.envadrouille.org/plug07.png","version":"20160506"},
