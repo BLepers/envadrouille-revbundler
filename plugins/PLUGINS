@@ -4,7 +4,7 @@
 {"name":"feedback","title":"Feedback","descr-en":"Allows users to send feedback / bug report on your galleries by mail.","descr-fr":"Ce plugin permet d'envoyer des commentaires par mail.", "thumb":"https://plugins.envadrouille.org/plug03.png","version":"20170807"},
 {"name":"sitemap","title":"Sitemap","descr-en":"Allow search engines to index your galleries.","descr-fr":"Ce plugin permet aux moteurs de recherche d'indexer vos galeries.", "thumb":"https://plugins.envadrouille.org/plug06.png","version":"20160319"},
 {"name":"rss","title":"Rss","descr-en":"Create a RSS feed of your galleries.","descr-fr":"Ce plugin permet de créer un flux RSS de vos galeries.", "thumb":"https://plugins.envadrouille.org/plug07.png","version":"20160506"},
-{"name":"gpxmap","title":"Gpx Map","descr-en":"Shows a map of all your hikes.","descr-fr":"Ce plugin permet d'afficher une carte de toutes vos randos.", "thumb":"https://plugins.envadrouille.org/plug08.png","version":"20210601"},
+{"name":"gpxmap","title":"Gpx Map","descr-en":"Shows a map of all your hikes.","descr-fr":"Ce plugin permet d'afficher une carte de toutes vos randos.", "thumb":"https://plugins.envadrouille.org/plug08.png","version":"20231015"},
 {"name":"gpxmapgl","title":"Isochrone Map","descr-en":"Shows all your hikes on a map with isochrones of public transport. Requires the GPX Map plugin to be installed.","descr-fr":"Ce plugin permet d'afficher toutes vos randos sur une carte contenant des isochrones de transport en commun.", "thumb":"https://plugins.envadrouille.org/plug09.png","version":"20230618"}
 ]
 
